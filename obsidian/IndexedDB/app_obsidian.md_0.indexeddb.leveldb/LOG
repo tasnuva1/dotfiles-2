@@ -1,0 +1,9 @@
+2024/10/10-21:13:00.366 6d74 Reusing MANIFEST /home/fahmida/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/10-21:13:00.386 6d74 Recovering log #230
+2024/10/10-21:13:00.577 6d74 Reusing old log /home/fahmida/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000230.log 
+2024/10/10-21:13:01.850 6df2 Compacting 1@1 + 1@2 files
+2024/10/10-21:13:02.050 6df2 Generated table #233@1: 6025 keys, 1935314 bytes
+2024/10/10-21:13:02.050 6df2 Compacted 1@1 + 1@2 files => 1935314 bytes
+2024/10/10-21:13:02.170 6df2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/10-21:13:02.171 6df2 Delete type=2 #228
+2024/10/10-21:13:02.171 6df2 Delete type=2 #231

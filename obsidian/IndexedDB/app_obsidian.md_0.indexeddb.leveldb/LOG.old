@@ -1,0 +1,6 @@
+2024/10/08-17:58:58.911 1d83 Reusing MANIFEST /home/fahmida/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/08-17:58:58.960 1d83 Recovering log #226
+2024/10/08-17:58:59.558 1d83 Reusing old log /home/fahmida/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000226.log 
+2024/10/08-18:18:50.929 1d18 Level-0 table #231: started
+2024/10/08-18:18:51.057 1d18 Level-0 table #231: 1544175 bytes OK
+2024/10/08-18:18:51.135 1d18 Delete type=0 #226

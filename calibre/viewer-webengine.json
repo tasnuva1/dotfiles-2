@@ -1,0 +1,1053 @@
+{
+  "delete-highlight-from-viewer_again": false,
+  "geometry-of-configure-viewer-toolbar-geometry": {
+    "frame_geometry": {
+      "height": 538,
+      "width": 626,
+      "x": 199,
+      "y": 115
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 530,
+      "width": 618,
+      "x": 203,
+      "y": 119
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 530,
+      "width": 618,
+      "x": 203,
+      "y": 119
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAADHAAAAcwAAAzgAAAKMAAAAywAAAHcAAAM0AAACiAAAAAAAAAAABAAAAADLAAAAdwAAAzQAAAKI"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1024,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1024
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1024,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 747,
+      "width": 563,
+      "x": 0,
+      "y": 21
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 739,
+      "width": 555,
+      "x": 4,
+      "y": 25
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 739,
+      "width": 555,
+      "x": 4,
+      "y": 25
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAFQAAAjIAAAL/AAAABAAAABkAAAIuAAAC+wAAAAAAAAAABAAAAAAEAAAAGQAAAi4AAAL7"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1024,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "VGA-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1024
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1024,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-read-aloud-config-geometry": {
+    "frame_geometry": {
+      "height": 660,
+      "width": 359,
+      "x": 332,
+      "y": 54
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 652,
+      "width": 351,
+      "x": 336,
+      "y": 58
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 652,
+      "width": 351,
+      "x": 336,
+      "y": 58
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAFMAAAANgAAArIAAALJAAABUAAAADoAAAKuAAACxQAAAAAAAAAABAAAAAFQAAAAOgAAAq4AAALF"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1024,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "VGA-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1024
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1024,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-viewer_image_popup_geometry": {
+    "frame_geometry": {
+      "height": 768,
+      "width": 1366,
+      "x": 0,
+      "y": 0
+    },
+    "full_screened": true,
+    "geometry": {
+      "height": 768,
+      "width": 1366,
+      "x": 0,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 122,
+      "width": 828,
+      "x": 269,
+      "y": 323
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAABDQAAAUMAAARIAAABvAAAAAAABAAABVYAAAAAAAAAAAAABVUAAAL/"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "highlight_export_format": "txt",
+  "local_storage": {
+    "search-bar-history-search-for-sc": [
+      "high",
+      "scroll",
+      "sc",
+      "down",
+      "search",
+      "speech",
+      "n",
+      "tts",
+      "voice",
+      "es",
+      "click",
+      "right click",
+      "copy",
+      "rea",
+      "reas",
+      "read",
+      "close",
+      "j",
+      "page",
+      "pageup",
+      "pre",
+      "next",
+      "l",
+      "font"
+    ],
+    "simple_input_history_net_search_url": [
+      "https://google.com/search?q={q}"
+    ]
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD8AAAC4/wCAAAAA/sAAAAeAGgAaQBnAGgAbABpAGcAaAB0AHMALQBkAG8AYwBrAAAAAAAAAALjAAAAxgD////7AAAAEAB0AG8AYwAtAGQAbwBjAGsCAAAA3QAAAA4AAAJFAAAC4/sAAAAWAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAAAAAC4wAAAJMA////AAAAAQAAAPwAAALj/AIAAAAD+wAAABYAbABvAG8AawB1AHAALQBkAG8AYwBrAAAAAAAAAAL6AAAAewD////7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAAAAAuMAAADkAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////AAACKwAAAuMAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "saved-highlights-search-settings": {},
+  "saved-search-settings": {
+    "All power\n\n": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "And We p": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "It is God": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "Uncertainty": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "all power": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "also inspired": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "and conn": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "and conntec": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "and we p": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "anyone who does this": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "army": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "as a result of this": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "attack again": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "billon do": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "blog": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "brad": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "bread": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "but the githube": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "but the githube g": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "by a direct and honest connection": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "by a direct and honest connection to the": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "by a direct and honest connection to the world around us": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "by st": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "care": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "code (the final output of a project": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "code the final output of a project": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "company making": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "da/1 CodeCraftPDFs/Build your own HTTP server/all/http-server/src/main.rs'": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "dis": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "do not follow": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "far more": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "form them a ": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "freedom": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "full of p": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "get up": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "honest connection": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "hours a week to": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "if you avoid": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "interact": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "it is god": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "just": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "learning": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "location 6": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "location 630": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "mini": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "month": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "more software bug": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "not for me": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "of god": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "over time": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "pattern r": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "people who believe": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "pref": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "proud": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "self": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "sex": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "si ar": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "simp": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "so on": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "some mass": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "some mess": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "the opening sur": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "then we can say ego inhibits true success by a direct and honest connection to the world around us": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "there": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "they also inspired": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "think in terms of how": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "to attack agina": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "true success by a direct and honest connection to the world around us": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "using words": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "variable": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "wait": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "we are b": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "we are be": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "we're b": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "what": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "why should you not": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "working with others": {
+      "case_sensitive": false,
+      "mode": "normal"
+    }
+  },
+  "session_data": {
+    "base_font_size": 11,
+    "book_scrollbar": true,
+    "columns_per_screen": {
+      "landscape": 0,
+      "portrait": 0
+    },
+    "controls_footer": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "progress"
+    },
+    "controls_help_shown_count": 2,
+    "current_color_scheme": "*new",
+    "footer": {
+      "left": "clock",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "header": {
+      "left": "empty",
+      "middle": "pos-book",
+      "right": "empty"
+    },
+    "hide_tooltips": null,
+    "highlight_style": {
+      "kind": "color",
+      "type": "builtin",
+      "which": "blue"
+    },
+    "keyboard_shortcuts": {
+      "back": [],
+      "copy_to_clipboard": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "c",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "c",
+          "metaKey": true,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "c",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "down": [],
+      "end_of_book": [
+        {
+          "altKey": true,
+          "ctrlKey": false,
+          "key": "k",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "End",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "end_of_file": [],
+      "forward": [],
+      "left": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "`",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "ArrowDown",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "k",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "next_section": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "h",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "pagedown": [],
+      "pageup": [],
+      "previous_section": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "l",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "read_aloud": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "s",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "n",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "right": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "ArrowRight",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "Tab",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "j",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "scrollspeed_decrease": [],
+      "scrollspeed_increase": [],
+      "start_of_book": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "h",
+          "metaKey": false,
+          "shiftKey": true
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "Home",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "start_of_file": [
+        {
+          "altKey": true,
+          "ctrlKey": false,
+          "key": "j",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "toggle_autoscroll": [],
+      "toggle_highlights": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "h",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "b",
+          "metaKey": false,
+          "shiftKey": true
+        }
+      ],
+      "up": []
+    },
+    "left-margin": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "lines_per_sec_auto": 2.1000000000000005,
+    "margin_bottom": 40,
+    "margin_left": 40,
+    "margin_right": 40,
+    "margin_top": 40,
+    "max_text_width": 500,
+    "override_book_colors": "dark",
+    "read_mode": "flow",
+    "right-margin": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "selection_bar_actions": [
+      "copy",
+      "lookup",
+      "speak",
+      "quick_highlight",
+      "remove_highlight",
+      "clear",
+      "highlight"
+    ],
+    "selection_bar_quick_highlights": [
+      "type:builtin;kind:color;which:blue;light:undefined;dark:undefined;background-color:undefined;text-decoration-line:undefined;text-decoration-color:undefined;text-decoration-style:undefined"
+    ],
+    "standalone_font_settings": {
+      "sans_family": "Roboto Medium",
+      "serif_family": "Liberation Sans"
+    },
+    "standalone_misc_settings": {
+      "auto_hide_mouse": false,
+      "remember_window_geometry": true,
+      "restore_docks": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "M.A.R. Habib",
+          "Bruce B. Lawrence"
+        ],
+        "key": "/home/fahmida/1 To learn about Allah SWT/The Quran A Verse Translation (M.A.R. Habib, Bruce B. Lawrence) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/1 To learn about Allah SWT/The Quran A Verse Translation (M.A.R. Habib, Bruce B. Lawrence) (Z-Library).epub",
+        "timestamp": "2024-10-16T03:30:39.428Z",
+        "title": "The Qur'an: A Verse Translation"
+      },
+      {
+        "authors": [
+          "Thomas Michel"
+        ],
+        "key": "/home/fahmida/downloads/One Click Image Downloader/catppuccinhelix ➿ Soothing pastel theme for Helix!/other/Insights from the Risale-I Nur Said Nursis Advice for Modern Believers (Thomas Michel) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/downloads/One Click Image Downloader/catppuccinhelix ➿ Soothing pastel theme for Helix!/other/Insights from the Risale-I Nur Said Nursis Advice for Modern Believers (Thomas Michel) (Z-Library).epub",
+        "timestamp": "2024-10-13T07:26:17.287Z",
+        "title": "Insights From the Risale-i Nur"
+      },
+      {
+        "authors": [
+          "Mara Bos"
+        ],
+        "key": "/home/fahmida/1.2 audiobooks/4. Rust Atomics and Locks - Mara Bos.epub",
+        "pathtoebook": "/home/fahmida/1.2 audiobooks/4. Rust Atomics and Locks - Mara Bos.epub",
+        "timestamp": "2024-10-12T17:23:24.604Z",
+        "title": "Rust Atomics and Locks"
+      },
+      {
+        "key": "/home/fahmida/downloads/Calibre Library/Unknown/In-depth Overview [_] Zig Programming Language (34)/In-depth Overview [_] Zig Programming Lang - Unknown.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Unknown/In-depth Overview [_] Zig Programming Language (34)/In-depth Overview [_] Zig Programming Lang - Unknown.epub",
+        "timestamp": "2024-10-12T17:13:01.468Z",
+        "title": "In-depth Overview ⚡ Zig Programming Language"
+      },
+      {
+        "authors": [
+          "Tim McNamara"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Tim McNamara/5. Rust in Action_ Systems programming concepts and techniques (14)/5. Rust in Action_ Systems programming con - Tim McNamara.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Tim McNamara/5. Rust in Action_ Systems programming concepts and techniques (14)/5. Rust in Action_ Systems programming con - Tim McNamara.epub",
+        "timestamp": "2024-10-12T17:11:47.003Z",
+        "title": "Rust in Action: Systems programming concepts and techniques"
+      },
+      {
+        "authors": [
+          "Rustacean Team"
+        ],
+        "key": "/home/fahmida/1.2 audiobooks/1. Practical Rust 1.x Cookbook - Rustacean Team.epub",
+        "pathtoebook": "/home/fahmida/1.2 audiobooks/1. Practical Rust 1.x Cookbook - Rustacean Team.epub",
+        "timestamp": "2024-10-12T17:09:52.465Z",
+        "title": "Practical Rust 1.x Cookbook"
+      },
+      {
+        "authors": [
+          "Rustacean Team"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Rustacean Team/1. Practical Rust 1.x Cookbook (28)/1. Practical Rust 1.x Cookbook - Rustacean Team.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Rustacean Team/1. Practical Rust 1.x Cookbook (28)/1. Practical Rust 1.x Cookbook - Rustacean Team.epub",
+        "timestamp": "2024-10-12T17:04:02.221Z",
+        "title": "Practical Rust 1.x Cookbook"
+      },
+      {
+        "authors": [
+          "Jon Gjengset"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Jon Gjengset/6. Rust for Rustaceans (6)/6. Rust for Rustaceans - Jon Gjengset.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Jon Gjengset/6. Rust for Rustaceans (6)/6. Rust for Rustaceans - Jon Gjengset.epub",
+        "timestamp": "2024-10-12T17:02:03.282Z",
+        "title": "Rust for Rustaceans"
+      },
+      {
+        "authors": [
+          "Luca Palmieri"
+        ],
+        "key": "/home/fahmida/1.2 audiobooks/Zero to Production in Rust An Opinionated Introduction to Backend Development (Luca Palmieri) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/1.2 audiobooks/Zero to Production in Rust An Opinionated Introduction to Backend Development (Luca Palmieri) (Z-Library).epub",
+        "timestamp": "2024-10-12T16:52:44.187Z",
+        "title": "Zero To Production In Rust"
+      },
+      {
+        "authors": [
+          "Brenden Matthews;"
+        ],
+        "key": "/home/fahmida/1.2 audiobooks/Code Like a Pro in Rust (Brenden Matthews) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/1.2 audiobooks/Code Like a Pro in Rust (Brenden Matthews) (Z-Library).epub",
+        "timestamp": "2024-10-12T16:51:42.852Z",
+        "title": "Code Like a Pro in Rust"
+      },
+      {
+        "authors": [
+          "Luca Palmieri"
+        ],
+        "key": "/home/fahmida/1.2 audiobooks/extra/Zero to Production in Rust An Opinionated Introduction to Backend Development (Luca Palmieri) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/1.2 audiobooks/extra/Zero to Production in Rust An Opinionated Introduction to Backend Development (Luca Palmieri) (Z-Library).epub",
+        "timestamp": "2024-10-12T16:45:07.678Z",
+        "title": "Zero To Production In Rust"
+      },
+      {
+        "authors": [
+          "William Magnuson"
+        ],
+        "key": "/home/fahmida/downloads/videos/movies/Later-In-Life/5 Time Pass Reading/For profit A history of corporations/For Profit A History of Corporations (William Magnuson) (Z-Library)(1).epub",
+        "pathtoebook": "/home/fahmida/downloads/videos/movies/Later-In-Life/5 Time Pass Reading/For profit A history of corporations/For Profit A History of Corporations (William Magnuson) (Z-Library)(1).epub",
+        "timestamp": "2024-10-10T16:47:36.604Z",
+        "title": "For Profit"
+      },
+      {
+        "authors": [
+          "James Smith"
+        ],
+        "key": "/home/fahmida/1.2 audiobooks/extra/1 Build Your Own Web Server From Scratch In Node.JS (James Smith) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/1.2 audiobooks/extra/1 Build Your Own Web Server From Scratch In Node.JS (James Smith) (Z-Library).epub",
+        "timestamp": "2024-10-10T12:18:29.796Z",
+        "title": "Build Your Own Web Server From Scratch In Node.JS"
+      },
+      {
+        "authors": [
+          "James Smith"
+        ],
+        "key": "/home/fahmida/1 CodeCraftPDFs/Build your own HTTP server/all/1 Build Your Own Web Server From Scratch In Node.JS (James Smith) (Z-Library).pdf",
+        "pathtoebook": "/home/fahmida/1 CodeCraftPDFs/Build your own HTTP server/all/1 Build Your Own Web Server From Scratch In Node.JS (James Smith) (Z-Library).pdf",
+        "timestamp": "2024-10-08T22:35:04.388Z",
+        "title": "Build Your Own Web Server From Scratch In Node.JS"
+      },
+      {
+        "authors": [
+          "James Smith"
+        ],
+        "key": "/home/fahmida/1.1 audiobooks/CodeCraftPDFs/Build Your Own Database From Scratch (James Smith) (Z-Library).mobi",
+        "pathtoebook": "/home/fahmida/1.1 audiobooks/CodeCraftPDFs/Build Your Own Database From Scratch (James Smith) (Z-Library).mobi",
+        "timestamp": "2024-10-08T17:51:01.461Z",
+        "title": "Build Your Own Database From Scratch"
+      },
+      {
+        "authors": [
+          "James Smith"
+        ],
+        "key": "/home/fahmida/1.1 audiobooks/Build Your Own Web Server From Scratch In Node.JS (James Smith) (Z-Library).mobi",
+        "pathtoebook": "/home/fahmida/1.1 audiobooks/Build Your Own Web Server From Scratch In Node.JS (James Smith) (Z-Library).mobi",
+        "timestamp": "2024-10-08T16:20:38.271Z",
+        "title": "Build Your Own Web Server From Scratch In Node.JS"
+      },
+      {
+        "authors": [
+          "James Smith"
+        ],
+        "key": "/home/fahmida/1.1 audiobooks/Build Your Own Database From Scratch (James Smith) (Z-Library).mobi",
+        "pathtoebook": "/home/fahmida/1.1 audiobooks/Build Your Own Database From Scratch (James Smith) (Z-Library).mobi",
+        "timestamp": "2024-10-08T16:17:31.347Z",
+        "title": "Build Your Own Database From Scratch"
+      },
+      {
+        "authors": [
+          "James Smith"
+        ],
+        "key": "/home/fahmida/1.1 audiobooks/1 Build Your Own Web Server From Scratch In Node.JS (James Smith) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/1.1 audiobooks/1 Build Your Own Web Server From Scratch In Node.JS (James Smith) (Z-Library).epub",
+        "timestamp": "2024-10-07T12:16:51.837Z",
+        "title": "Build Your Own Web Server From Scratch In Node.JS"
+      },
+      {
+        "authors": [
+          "Walter Hickey",
+          "Heather Jones"
+        ],
+        "key": "/home/fahmida/downloads/videos/movies/Later-In-Life/5 Time Pass Reading/1 You are what you watch How movies and TV affect everything/You Are What You Watch How Movies and TV Affect Everything (Walter Hickey) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/downloads/videos/movies/Later-In-Life/5 Time Pass Reading/1 You are what you watch How movies and TV affect everything/You Are What You Watch How Movies and TV Affect Everything (Walter Hickey) (Z-Library).epub",
+        "timestamp": "2024-10-05T17:19:07.925Z",
+        "title": "You Are What You Watch"
+      },
+      {
+        "authors": [
+          "Kevin Horsley"
+        ],
+        "key": "/home/fahmida/Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Kevin Horsley) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Kevin Horsley) (Z-Library).epub",
+        "timestamp": "2024-10-01T12:04:49.038Z",
+        "title": "Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Mental Mastery Book 1)"
+      },
+      {
+        "authors": [
+          "Horsley, Kevin"
+        ],
+        "key": "/home/fahmida/.local/share/torbrowser/tbb/x86_64/tor-browser/Browser/Downloads/Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Horsley, Kevin) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/.local/share/torbrowser/tbb/x86_64/tor-browser/Browser/Downloads/Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Horsley, Kevin) (Z-Library).epub",
+        "timestamp": "2024-10-01T12:04:39.942Z",
+        "title": "Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive"
+      },
+      {
+        "authors": [
+          "Readtrepreneur Publishing"
+        ],
+        "key": "/home/fahmida/Summary of Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and Be More Productive by... (Readtrepreneur Publishing) (Z-Library.epub",
+        "pathtoebook": "/home/fahmida/Summary of Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and Be More Productive by... (Readtrepreneur Publishing) (Z-Library.epub",
+        "timestamp": "2024-10-01T12:04:00.326Z",
+        "title": "Summary of Unlimited Memory"
+      },
+      {
+        "authors": [
+          "M.A.R. Habib",
+          "Bruce B. Lawrence"
+        ],
+        "key": "/home/fahmida/downloads/videos/movies/1. TheQuranAVerseTranslation_ep7/The Quran A Verse Translation (M.A.R. Habib, Bruce B. Lawrence) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/downloads/videos/movies/1. TheQuranAVerseTranslation_ep7/The Quran A Verse Translation (M.A.R. Habib, Bruce B. Lawrence) (Z-Library).epub",
+        "timestamp": "2024-09-29T06:53:47.592Z",
+        "title": "The Qur'an: A Verse Translation"
+      },
+      {
+        "authors": [
+          "Walter Hickey",
+          "Heather Jones"
+        ],
+        "key": "/home/fahmida/downloads/videos/movies/5 Time Pass Reading/1 You are what you watch How movies and TV affect everything/You Are What You Watch How Movies and TV Affect Everything (Walter Hickey) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/downloads/videos/movies/5 Time Pass Reading/1 You are what you watch How movies and TV affect everything/You Are What You Watch How Movies and TV Affect Everything (Walter Hickey) (Z-Library).epub",
+        "timestamp": "2024-09-28T10:28:26.544Z",
+        "title": "You Are What You Watch"
+      },
+      {
+        "authors": [
+          "Daniel Kahneman"
+        ],
+        "key": "/home/fahmida/downloads/videos/movies/4 Eating/Thinking, Fast and Slow/Thinking, Fast and Slow (Daniel Kahneman) (Z-Library)(2).epub",
+        "pathtoebook": "/home/fahmida/downloads/videos/movies/4 Eating/Thinking, Fast and Slow/Thinking, Fast and Slow (Daniel Kahneman) (Z-Library)(2).epub",
+        "timestamp": "2024-09-27T13:16:12.756Z",
+        "title": "Thinking, Fast and Slow"
+      }
+    ],
+    "user_color_schemes": {
+      "*new": {
+        "background": "#fcfcfc",
+        "foreground": "#5a5a5a",
+        "margin_bottom": "#ffffff:#5a5a5a",
+        "margin_left": "#ffffff:#5a5a5a",
+        "margin_right": "#ffffff:#5a5a5a",
+        "margin_top": "#ffffff:#5a5a5a",
+        "name": "new"
+      }
+    },
+    "user_stylesheet": "body {\n\nline-height: 17px;\nword-space: 150px;\n\n\n}"
+  },
+  "speechd-voice-table-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAZoAAAADAAEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAADAAAA0gAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
+  },
+  "tts_speechd": {
+    "rate": 20,
+    "voice": [
+      "Piper",
+      "en-us",
+      "MALE1"
+    ]
+  },
+  "viewer-highlights-search-case-sensitive": false,
+  "viewer-highlights-search-mode": "word",
+  "viewer-search-case-sensitive": false,
+  "viewer-search-mode": "normal"
+}
