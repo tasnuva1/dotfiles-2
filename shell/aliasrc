@@ -92,28 +92,18 @@ alias \
 	yc="yay -Sc; yay -Yc" \
 	yl="sudo pacman -Qi | egrep '^(Name|Installed)' | cut -f2 -d':' | paste - - | column -t | sort -nrk 2 | grep MiB | less" \
 	yr="yay -Rns" \
-	command-line="ebook-viewer '/home/fahmida/Calibre Library/Ken Youens-Clark/1. Command-Line Rust (18)/1. Command-Line Rust - Ken Youens-Clark.epub'" \
 	youtube="yt-dlp --socket-timeout 60 --embed-chapters --format 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best' --write-sub --sub-lang en -i -o '%(playlist)s/%(playlist_index)s- %(title)s.%(ext)s'" \
 	youtube-sub="yt-dlp --skip-download --write-subs --write-auto-subs  --sub-lang en --sub-format ttml --convert-subs srt -o '%(playlist_index)s-%(title)s.%(ext)s'" \
 	sub="autosub -S en -D en" \
 	cf="cd /home/fahmida/.config && lf" \
-	aco="cd /mnt/3/Courses/media/audiobooks && lf" \
-	dco="cd /mnt/3/Courses/tor-browser/Browser/Downloads/digitalBooks && lf" \
-	vco="cd /mnt/4/Courses && lf" \
-	nf="cd /mnt/3/Video && lf" \
 	bu="sudo brightnessctl set +10%" \
 	bd="sudo brightnessctl set 10%-" \
 	d="sudo da" \
 	b="sudo brightnessctl set 0%" \
 	br="sudo brightnessctl set 100%" \
-	r="ebook-viewer '/home/fahmida/downloads/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub'" \
 	space="for f in *; do mv "$f" $(echo $f | tr ' ' '_'); done" \
 	usb-open="sudo mount /dev/sdb /mnt/usb && cd /mnt/usb && lf" \
 	usb-close="sudo fuser -km /dev/sdb && sudo umount /mnt/usb" \
-	rust-beginner-advence="mounter && lf '/mnt/4/learning/[FreeCourseSite.com] Udemy - Fundamentals of Backend Engineering/2 - Backend Communication Design Patterns'" \
-	current-project-send-receive="lf '/home/fahmida/1.2 code craft/1. Build your own HTTP server/code/codecrafters-http-server-rust'" \
-	free-time-artical="/usr/bin/google-chrome-stable --new-tab 'https://hackmd.io/@simonhyll' && echo 'go to the browser window'" \
-	going="mpv '/mnt/4/learning/Later-In-Life/5 Time Pass Reading/1 How to keep going bangla/How to Keep Going Full Bangla.webm'" \
 	cd="z" \
 	ee="wezterm" \
 	c="calcurse" \
@@ -124,3 +114,6 @@ alias \
 	magit="nvim -c MagitOnly" \
 	ref="shortcuts >/dev/null; source ${XDG_CONFIG_HOME:-$HOME/.config}/shell/shortcutrc ; source ${XDG_CONFIG_HOME:-$HOME/.config}/shell/zshnameddirrc" \
 	weath="less -S ${XDG_CACHE_HOME:-$HOME/.cache}/weatherreport" \
+
+	# free-time-artical="/usr/bin/google-chrome-stable --new-tab 'https://hackmd.io/@simonhyll' && echo 'go to the browser window'" \
+	# r="ebook-viewer '/home/fahmida/downloads/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub'" \

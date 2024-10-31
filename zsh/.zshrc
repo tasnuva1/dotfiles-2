@@ -121,11 +121,11 @@ eval "$(atuin init zsh)"
 # lf
 eval "$(zoxide init zsh)"
 
-echo "
-rust-beginner-advence
-current-project
-free-time-artical
-"
+# echo "
+# rust-beginner-advence
+# current-project
+# free-time-artical
+# "
 
 # pnpm
 export PNPM_HOME="/home/fahmida/.local/share/pnpm"

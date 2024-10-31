@@ -54,27 +54,27 @@
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
       "height": 747,
-      "width": 563,
+      "width": 1024,
       "x": 0,
       "y": 21
     },
     "full_screened": false,
     "geometry": {
       "height": 739,
-      "width": 555,
+      "width": 1016,
       "x": 4,
       "y": 25
     },
     "maximized": false,
     "normal_geometry": {
       "height": 739,
-      "width": 555,
+      "width": 1016,
       "x": 4,
       "y": 25
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAFQAAAjIAAAL/AAAABAAAABkAAAIuAAAC+wAAAAAAAAAABAAAAAAEAAAAGQAAAi4AAAL7"
+      "__value__": "AdnQywADAAAAAAAAAAAAFQAAA/8AAAL/AAAABAAAABkAAAP7AAAC+wAAAAAAAAAABAAAAAAEAAAAGQAAA/sAAAL7"
     },
     "screen": {
       "depth": 24,
@@ -238,7 +238,7 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD8AAAC4/wCAAAAA/sAAAAeAGgAaQBnAGgAbABpAGcAaAB0AHMALQBkAG8AYwBrAAAAAAAAAALjAAAAxgD////7AAAAEAB0AG8AYwAtAGQAbwBjAGsCAAAA3QAAAA4AAAJFAAAC4/sAAAAWAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAAAAAC4wAAAJMA////AAAAAQAAAPwAAALj/AIAAAAD+wAAABYAbABvAG8AawB1AHAALQBkAG8AYwBrAAAAAAAAAAL6AAAAewD////7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAAAAAuMAAADkAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////AAACKwAAAuMAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD8AAAC4/wCAAAAA/sAAAAeAGgAaQBnAGgAbABpAGcAaAB0AHMALQBkAG8AYwBrAAAAAAAAAALjAAAAxgD////7AAAAEAB0AG8AYwAtAGQAbwBjAGsCAAAA3QAAAA4AAAJFAAAC4/sAAAAWAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAAAAAC4wAAAJMA////AAAAAQAAAPwAAALj/AIAAAAD+wAAABYAbABvAG8AawB1AHAALQBkAG8AYwBrAAAAAAAAAAL6AAAAewD////7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAAAAAuMAAADkAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////AAAD+AAAAuMAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "saved-highlights-search-settings": {},
@@ -796,6 +796,39 @@
     "standalone_recently_opened": [
       {
         "authors": [
+          "John Z. Sonmez"
+        ],
+        "key": "/home/fahmida/1/movies audiobooks/1. Computer Programming/The-Complete-Software-Developer's-Career-Guide/Book/The Complete Software Developers Career Guide.epub",
+        "pathtoebook": "/home/fahmida/1/movies audiobooks/1. Computer Programming/The-Complete-Software-Developer's-Career-Guide/Book/The Complete Software Developers Career Guide.epub",
+        "timestamp": "2024-10-29T01:08:59.727Z",
+        "title": "The Complete Software Developer's Career Guide"
+      },
+      {
+        "authors": [
+          "B. B. Abdulla"
+        ],
+        "key": "/home/fahmida/1/- 1 read tafsir/3 Timeless seeds of advice/Timeless Seeds of Advice The Sayings of Prophet Muhammad ﷺ , Ibn Taymiyyah, Ibn al-Qayyim, Ibn al-Jawzi and Other Prominent... (B. B. Abdulla).mobi",
+        "pathtoebook": "/home/fahmida/1/- 1 read tafsir/3 Timeless seeds of advice/Timeless Seeds of Advice The Sayings of Prophet Muhammad ﷺ , Ibn Taymiyyah, Ibn al-Qayyim, Ibn al-Jawzi and Other Prominent... (B. B. Abdulla).mobi",
+        "timestamp": "2024-10-28T07:29:04.590Z",
+        "title": "Timeless Seeds of Advice: The Sayings of Prophet Muhammad ﷺ , Ibn Taymiyyah, Ibn al-Qayyim, Ibn al-Jawzi and Other Prominent Scholars in Bringing Comfort and Hope to the Soul"
+      },
+      {
+        "authors": [
+          "B. B. Abdulla"
+        ],
+        "key": "/home/fahmida/1/- 1 read tafsir/3 Timeless seeds of advice/Timeless Seeds of Advice (B. B. Abdulla) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/1/- 1 read tafsir/3 Timeless seeds of advice/Timeless Seeds of Advice (B. B. Abdulla) (Z-Library).epub",
+        "timestamp": "2024-10-28T07:28:27.355Z",
+        "title": "Timeless Seeds of Advice: The Sayings of Prophet Muhammad ﷺ , Ibn Taymiyyah, Ibn al-Qayyim, Ibn al-Jawzi and Other Prominent Scholars in Bringing Comfort and Hope to the Soul"
+      },
+      {
+        "key": "/home/fahmida/Downloads/Telegram Desktop/ব্যাংকব্যবস্থা_ও_টাকার_গোপন_রহস্য_মোহাইমিন_পাটোয়ারী.pdf",
+        "pathtoebook": "/home/fahmida/Downloads/Telegram Desktop/ব্যাংকব্যবস্থা_ও_টাকার_গোপন_রহস্য_মোহাইমিন_পাটোয়ারী.pdf",
+        "timestamp": "2024-10-25T02:35:43.674Z",
+        "title": "ব্যাংকব্যবস্থা ও টাকার গোপন রহস্য মোহাইমিন পাটোয়ারী"
+      },
+      {
+        "authors": [
           "M.A.R. Habib",
           "Bruce B. Lawrence"
         ],
@@ -981,44 +1014,6 @@
         "pathtoebook": "/home/fahmida/.local/share/torbrowser/tbb/x86_64/tor-browser/Browser/Downloads/Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Horsley, Kevin) (Z-Library).epub",
         "timestamp": "2024-10-01T12:04:39.942Z",
         "title": "Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive"
-      },
-      {
-        "authors": [
-          "Readtrepreneur Publishing"
-        ],
-        "key": "/home/fahmida/Summary of Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and Be More Productive by... (Readtrepreneur Publishing) (Z-Library.epub",
-        "pathtoebook": "/home/fahmida/Summary of Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and Be More Productive by... (Readtrepreneur Publishing) (Z-Library.epub",
-        "timestamp": "2024-10-01T12:04:00.326Z",
-        "title": "Summary of Unlimited Memory"
-      },
-      {
-        "authors": [
-          "M.A.R. Habib",
-          "Bruce B. Lawrence"
-        ],
-        "key": "/home/fahmida/downloads/videos/movies/1. TheQuranAVerseTranslation_ep7/The Quran A Verse Translation (M.A.R. Habib, Bruce B. Lawrence) (Z-Library).epub",
-        "pathtoebook": "/home/fahmida/downloads/videos/movies/1. TheQuranAVerseTranslation_ep7/The Quran A Verse Translation (M.A.R. Habib, Bruce B. Lawrence) (Z-Library).epub",
-        "timestamp": "2024-09-29T06:53:47.592Z",
-        "title": "The Qur'an: A Verse Translation"
-      },
-      {
-        "authors": [
-          "Walter Hickey",
-          "Heather Jones"
-        ],
-        "key": "/home/fahmida/downloads/videos/movies/5 Time Pass Reading/1 You are what you watch How movies and TV affect everything/You Are What You Watch How Movies and TV Affect Everything (Walter Hickey) (Z-Library).epub",
-        "pathtoebook": "/home/fahmida/downloads/videos/movies/5 Time Pass Reading/1 You are what you watch How movies and TV affect everything/You Are What You Watch How Movies and TV Affect Everything (Walter Hickey) (Z-Library).epub",
-        "timestamp": "2024-09-28T10:28:26.544Z",
-        "title": "You Are What You Watch"
-      },
-      {
-        "authors": [
-          "Daniel Kahneman"
-        ],
-        "key": "/home/fahmida/downloads/videos/movies/4 Eating/Thinking, Fast and Slow/Thinking, Fast and Slow (Daniel Kahneman) (Z-Library)(2).epub",
-        "pathtoebook": "/home/fahmida/downloads/videos/movies/4 Eating/Thinking, Fast and Slow/Thinking, Fast and Slow (Daniel Kahneman) (Z-Library)(2).epub",
-        "timestamp": "2024-09-27T13:16:12.756Z",
-        "title": "Thinking, Fast and Slow"
       }
     ],
     "user_color_schemes": {
