@@ -1742,3 +1742,9 @@ ln
 git add .
 ln
 t 2m ; mpv /home/fahmida/.local/bin/cock.mp4
+git add .
+git commit
+lf
+t 5m ; mpv /home/fahmida/.local/bin/cock.mp4
+t m ; mpv /home/fahmida/.local/bin/cock.mp4
+ln
