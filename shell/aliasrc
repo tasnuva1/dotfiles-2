@@ -71,8 +71,6 @@ alias \
 	trem="transmission-remote" \
 	YT="youtube-viewer" \
 	sdn="shutdown -h now" \
-	ss="du -h --max-depth=1 | sort -hr" \
-  ssa="df -h /dev/dm-0 /dev/sda3 /dev/sda4" \
 	e="$EDITOR" \
 	v="$EDITOR" \
   h="helix" \
@@ -104,7 +102,9 @@ alias \
 	space="for f in *; do mv "$f" $(echo $f | tr ' ' '_'); done" \
 	usb-open="sudo mount /dev/sdb /mnt/usb && cd /mnt/usb && lf" \
 	usb-close="sudo fuser -km /dev/sdb && sudo umount /mnt/usb" \
-	cd="z" \
+	p="lf '/home/fahmida/others/screenshot/videos/1-all-records'" \
+	ss="du -h --max-depth=1 | sort -hr" \
+  ssa="df -h /dev/dm-0 /dev/sda3 /dev/sda4" \
 	ee="wezterm" \
 	c="calcurse" \
 	za="zathura" \
@@ -117,3 +117,4 @@ alias \
 
 	# free-time-artical="/usr/bin/google-chrome-stable --new-tab 'https://hackmd.io/@simonhyll' && echo 'go to the browser window'" \
 	# r="ebook-viewer '/home/fahmida/downloads/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub'" \
+	# cd="z" \

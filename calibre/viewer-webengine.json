@@ -207,6 +207,9 @@
   "highlight_export_format": "txt",
   "local_storage": {
     "search-bar-history-search-for-sc": [
+      "edit",
+      "font",
+      "mode",
       "high",
       "scroll",
       "sc",
@@ -229,8 +232,7 @@
       "pageup",
       "pre",
       "next",
-      "l",
-      "font"
+      "l"
     ],
     "simple_input_history_net_search_url": [
       "https://google.com/search?q={q}"
@@ -553,7 +555,7 @@
     }
   },
   "session_data": {
-    "base_font_size": 11,
+    "base_font_size": 12,
     "book_scrollbar": true,
     "columns_per_screen": {
       "landscape": 0,
@@ -607,6 +609,57 @@
           "shiftKey": false
         }
       ],
+      "decrease_font_size": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "-",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "_",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "-",
+          "metaKey": false,
+          "shiftKey": true
+        },
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "_",
+          "metaKey": false,
+          "shiftKey": true
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "-",
+          "metaKey": true,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "_",
+          "metaKey": true,
+          "shiftKey": false
+        },
+        {
+          "altKey": true,
+          "ctrlKey": false,
+          "key": "d",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
       "down": [],
       "end_of_book": [
         {
@@ -626,6 +679,64 @@
       ],
       "end_of_file": [],
       "forward": [],
+      "increase_font_size": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "=",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "+",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "+",
+          "metaKey": false,
+          "shiftKey": true
+        },
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "=",
+          "metaKey": false,
+          "shiftKey": true
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "+",
+          "metaKey": true,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "+",
+          "metaKey": true,
+          "shiftKey": true
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "=",
+          "metaKey": true,
+          "shiftKey": true
+        },
+        {
+          "altKey": true,
+          "ctrlKey": false,
+          "key": "u",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
       "left": [
         {
           "altKey": false,
@@ -644,7 +755,7 @@
         {
           "altKey": false,
           "ctrlKey": false,
-          "key": "k",
+          "key": "j",
           "metaKey": false,
           "shiftKey": false
         }
@@ -656,6 +767,13 @@
           "key": "h",
           "metaKey": false,
           "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "PageDown",
+          "metaKey": false,
+          "shiftKey": false
         }
       ],
       "pagedown": [],
@@ -665,6 +783,13 @@
           "altKey": false,
           "ctrlKey": false,
           "key": "l",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "PageUp",
           "metaKey": false,
           "shiftKey": false
         }
@@ -703,13 +828,29 @@
         {
           "altKey": false,
           "ctrlKey": false,
-          "key": "j",
+          "key": "k",
           "metaKey": false,
           "shiftKey": false
         }
       ],
-      "scrollspeed_decrease": [],
-      "scrollspeed_increase": [],
+      "scrollspeed_decrease": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "d",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "scrollspeed_increase": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "s",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
       "start_of_book": [
         {
           "altKey": false,
@@ -735,7 +876,15 @@
           "shiftKey": false
         }
       ],
-      "toggle_autoscroll": [],
+      "toggle_autoscroll": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "g",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
       "toggle_highlights": [
         {
           "altKey": false,
@@ -752,6 +901,22 @@
           "shiftKey": true
         }
       ],
+      "toggle_paged_mode": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "m",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": true,
+          "ctrlKey": false,
+          "key": "m",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
       "up": []
     },
     "left-margin": {
@@ -761,12 +926,12 @@
     },
     "lines_per_sec_auto": 2.1000000000000005,
     "margin_bottom": 40,
-    "margin_left": 40,
-    "margin_right": 40,
+    "margin_left": 0,
+    "margin_right": 130,
     "margin_top": 40,
     "max_text_width": 500,
     "override_book_colors": "dark",
-    "read_mode": "flow",
+    "read_mode": "paged",
     "right-margin": {
       "left": "empty",
       "middle": "empty",
@@ -794,6 +959,179 @@
       "restore_docks": false
     },
     "standalone_recently_opened": [
+      {
+        "authors": [
+          "Luca Palmieri"
+        ],
+        "key": "/home/fahmida/Zero To Production In Rust (Luca Palmieri) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/Zero To Production In Rust (Luca Palmieri) (Z-Library).epub",
+        "timestamp": "2024-12-18T14:13:21.087Z",
+        "title": "Zero To Production In Rust"
+      },
+      {
+        "authors": [
+          "Luca Palmieri"
+        ],
+        "key": "/home/fahmida/1/1 become mus-ta-kim, to become a good person/knowledgeable/Books/[] Zero to Production in Rust An Opinionated Introduction to Backend Development (Luca Palmieri) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/1/1 become mus-ta-kim, to become a good person/knowledgeable/Books/[] Zero to Production in Rust An Opinionated Introduction to Backend Development (Luca Palmieri) (Z-Library).epub",
+        "timestamp": "2024-12-18T11:38:21.193Z",
+        "title": "Zero To Production In Rust"
+      },
+      {
+        "authors": [
+          "Robert Johnson"
+        ],
+        "key": "/home/fahmida/1/1 become mus-ta-kim, to become a good person/2 reading,listening - more books,lecture/3 audiobooks, book, courses/1 Computer Programming Crafting/Building an Operating System with Rust A Practical Guide (Robert Johnson) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/1/1 become mus-ta-kim, to become a good person/2 reading,listening - more books,lecture/3 audiobooks, book, courses/1 Computer Programming Crafting/Building an Operating System with Rust A Practical Guide (Robert Johnson) (Z-Library).epub",
+        "timestamp": "2024-12-17T20:22:48.285Z",
+        "title": "Building an Operating System with RustA Practical Guide"
+      },
+      {
+        "authors": [
+          "David Drysdale"
+        ],
+        "key": "/home/fahmida/1/1 become mus-ta-kim, to become a good person/2 reading,listening - more books,lecture/3 audiobooks, book, courses/1 Computer Programming/Effective Rust 35 Specific Ways to Improve Your Rust Code (David Drysdale) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/1/1 become mus-ta-kim, to become a good person/2 reading,listening - more books,lecture/3 audiobooks, book, courses/1 Computer Programming/Effective Rust 35 Specific Ways to Improve Your Rust Code (David Drysdale) (Z-Library).epub",
+        "timestamp": "2024-12-16T15:40:31.575Z",
+        "title": "Effective Rust"
+      },
+      {
+        "authors": [
+          "David Drysdale"
+        ],
+        "key": "/home/fahmida/Effective Rust 35 Specific Ways to Improve Your Rust Code (David Drysdale) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/Effective Rust 35 Specific Ways to Improve Your Rust Code (David Drysdale) (Z-Library).epub",
+        "timestamp": "2024-12-13T02:56:53.697Z",
+        "title": "Effective Rust"
+      },
+      {
+        "authors": [
+          "B. B. Abdulla"
+        ],
+        "key": "/home/fahmida/1 become mus-ta-kim, to become a good person/4 read tafsir - learning something new/3. Timeless seeds of advice/Timeless Seeds of Advice (B. B. Abdulla).epub",
+        "pathtoebook": "/home/fahmida/1 become mus-ta-kim, to become a good person/4 read tafsir - learning something new/3. Timeless seeds of advice/Timeless Seeds of Advice (B. B. Abdulla).epub",
+        "timestamp": "2024-12-11T12:55:33.983Z",
+        "title": "Timeless Seeds of Advice: The Sayings of Prophet Muhammad ﷺ , Ibn Taymiyyah, Ibn al-Qayyim, Ibn al-Jawzi and Other Prominent Scholars in Bringing Comfort and Hope to the Soul"
+      },
+      {
+        "authors": [
+          "B. B. Abdulla"
+        ],
+        "key": "/home/fahmida/1 become mus-ta-kim, to become a good person/4 read tafsir - learning something new/3. Timeless seeds of advice/Timeless Seeds of Advice The Sayings of Prophet Muhammad ﷺ , Ibn Taymiyyah, Ibn al-Qayyim, Ibn al-Jawzi and Other Prominent... (B. B. Abdulla).mobi",
+        "pathtoebook": "/home/fahmida/1 become mus-ta-kim, to become a good person/4 read tafsir - learning something new/3. Timeless seeds of advice/Timeless Seeds of Advice The Sayings of Prophet Muhammad ﷺ , Ibn Taymiyyah, Ibn al-Qayyim, Ibn al-Jawzi and Other Prominent... (B. B. Abdulla).mobi",
+        "timestamp": "2024-12-11T12:54:20.379Z",
+        "title": "Timeless Seeds of Advice: The Sayings of Prophet Muhammad ﷺ , Ibn Taymiyyah, Ibn al-Qayyim, Ibn al-Jawzi and Other Prominent Scholars in Bringing Comfort and Hope to the Soul"
+      },
+      {
+        "authors": [
+          "Robert Johnson"
+        ],
+        "key": "/home/fahmida/Building an Operating System with Rust A Practical Guide (Robert Johnson) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/Building an Operating System with Rust A Practical Guide (Robert Johnson) (Z-Library).epub",
+        "timestamp": "2024-12-11T06:32:38.056Z",
+        "title": "Building an Operating System with RustA Practical Guide"
+      },
+      {
+        "authors": [
+          "Robert Johnson"
+        ],
+        "key": "/home/fahmida/Building an Operating System with RustA Practical Guide (Robert Johnson) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/Building an Operating System with RustA Practical Guide (Robert Johnson) (Z-Library).epub",
+        "timestamp": "2024-12-11T06:07:04.385Z",
+        "title": "Building an Operating System with RustA Practical Guide"
+      },
+      {
+        "authors": [
+          "M.A.R. Habib",
+          "Bruce B. Lawrence"
+        ],
+        "key": "/home/fahmida/1 become mus-ta-kim, to become a good person/4 read tafsir - learning something new/The Quran A Verse Translation (M.A.R. Habib, Bruce B. Lawrence) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/1 become mus-ta-kim, to become a good person/4 read tafsir - learning something new/The Quran A Verse Translation (M.A.R. Habib, Bruce B. Lawrence) (Z-Library).epub",
+        "timestamp": "2024-12-08T06:49:19.913Z",
+        "title": "The Qur'an: A Verse Translation"
+      },
+      {
+        "authors": [
+          "Markkus  Rovito"
+        ],
+        "key": "/home/fahmida/Einstein in His Own Words 100+ Quotes (Albert Einstein Quotes) (Markkus Rovito) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/Einstein in His Own Words 100+ Quotes (Albert Einstein Quotes) (Markkus Rovito) (Z-Library).epub",
+        "timestamp": "2024-12-01T18:37:14.406Z",
+        "title": "Einstein in His Own Words"
+      },
+      {
+        "authors": [
+          "Albert Einstein"
+        ],
+        "key": "/home/fahmida/Albert Einstein Quotes (Albert Einstein) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/Albert Einstein Quotes (Albert Einstein) (Z-Library).epub",
+        "timestamp": "2024-12-01T18:35:51.935Z",
+        "title": "Albert Einstein Quotes"
+      },
+      {
+        "authors": [
+          "Jim Kwik"
+        ],
+        "key": "/home/fahmida/knowledgeable/Books/Limitless ,, Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life (Jim Kwik).mobi",
+        "pathtoebook": "/home/fahmida/knowledgeable/Books/Limitless ,, Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life (Jim Kwik).mobi",
+        "timestamp": "2024-11-30T23:37:16.823Z",
+        "title": "Limitless ,, Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life"
+      },
+      {
+        "authors": [
+          "Zander"
+        ],
+        "key": "/mnt/4/now-moved/Practical Database Design Blog Schema/[TutsNode.net] - Practical Database Design Blog Schema/1 - Introduction/2 - Specification.docx",
+        "pathtoebook": "/mnt/4/now-moved/Practical Database Design Blog Schema/[TutsNode.net] - Practical Database Design Blog Schema/1 - Introduction/2 - Specification.docx",
+        "timestamp": "2024-11-18T05:32:08.824Z",
+        "title": "2"
+      },
+      {
+        "authors": [
+          "Tim McNamara"
+        ],
+        "key": "/mnt/3/only-books/books-for-now/Rust in Action (Tim McNamara) (Z-Library).epub",
+        "pathtoebook": "/mnt/3/only-books/books-for-now/Rust in Action (Tim McNamara) (Z-Library).epub",
+        "timestamp": "2024-11-16T16:03:09.545Z",
+        "title": "Rust in Action"
+      },
+      {
+        "authors": [
+          "Horsley, Kevin"
+        ],
+        "key": "/home/fahmida/1 become mus-ta-kim, to become a good person/1 Spontaneous Thinking/1 Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive/1 timepass Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive.epub",
+        "pathtoebook": "/home/fahmida/1 become mus-ta-kim, to become a good person/1 Spontaneous Thinking/1 Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive/1 timepass Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive.epub",
+        "timestamp": "2024-11-15T07:02:45.887Z",
+        "title": "Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive"
+      },
+      {
+        "authors": [
+          "Horsley, Kevin"
+        ],
+        "key": "/home/fahmida/1/2 night/2 movies audiobooks/3. How To remember -   Spontaneous Thinking/1. Moonwalking with Einstein/Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive/1 timepass Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive.epub",
+        "pathtoebook": "/home/fahmida/1/2 night/2 movies audiobooks/3. How To remember -   Spontaneous Thinking/1. Moonwalking with Einstein/Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive/1 timepass Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive.epub",
+        "timestamp": "2024-11-11T06:07:12.813Z",
+        "title": "Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive"
+      },
+      {
+        "authors": [
+          "M.A.R. Habib",
+          "Bruce B. Lawrence"
+        ],
+        "key": "/home/fahmida/1/- 2 read tafsir/The Quran A Verse Translation (M.A.R. Habib, Bruce B. Lawrence) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/1/- 2 read tafsir/The Quran A Verse Translation (M.A.R. Habib, Bruce B. Lawrence) (Z-Library).epub",
+        "timestamp": "2024-11-06T00:11:50.570Z",
+        "title": "The Qur'an: A Verse Translation"
+      },
+      {
+        "authors": [
+          "Horsley, Kevin"
+        ],
+        "key": "/home/fahmida/1/movies audiobooks/10. How To remember - Spontaneous Thinking/1. Moonwalking with Einstein/Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive/1 timepass Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Horsley, Kevin) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/1/movies audiobooks/10. How To remember - Spontaneous Thinking/1. Moonwalking with Einstein/Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive/1 timepass Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Horsley, Kevin) (Z-Library).epub",
+        "timestamp": "2024-11-02T00:06:32.315Z",
+        "title": "Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive"
+      },
       {
         "authors": [
           "John Z. Sonmez"
@@ -845,189 +1183,20 @@
         "pathtoebook": "/home/fahmida/downloads/One Click Image Downloader/catppuccinhelix ➿ Soothing pastel theme for Helix!/other/Insights from the Risale-I Nur Said Nursis Advice for Modern Believers (Thomas Michel) (Z-Library).epub",
         "timestamp": "2024-10-13T07:26:17.287Z",
         "title": "Insights From the Risale-i Nur"
-      },
-      {
-        "authors": [
-          "Mara Bos"
-        ],
-        "key": "/home/fahmida/1.2 audiobooks/4. Rust Atomics and Locks - Mara Bos.epub",
-        "pathtoebook": "/home/fahmida/1.2 audiobooks/4. Rust Atomics and Locks - Mara Bos.epub",
-        "timestamp": "2024-10-12T17:23:24.604Z",
-        "title": "Rust Atomics and Locks"
-      },
-      {
-        "key": "/home/fahmida/downloads/Calibre Library/Unknown/In-depth Overview [_] Zig Programming Language (34)/In-depth Overview [_] Zig Programming Lang - Unknown.epub",
-        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Unknown/In-depth Overview [_] Zig Programming Language (34)/In-depth Overview [_] Zig Programming Lang - Unknown.epub",
-        "timestamp": "2024-10-12T17:13:01.468Z",
-        "title": "In-depth Overview ⚡ Zig Programming Language"
-      },
-      {
-        "authors": [
-          "Tim McNamara"
-        ],
-        "key": "/home/fahmida/downloads/Calibre Library/Tim McNamara/5. Rust in Action_ Systems programming concepts and techniques (14)/5. Rust in Action_ Systems programming con - Tim McNamara.epub",
-        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Tim McNamara/5. Rust in Action_ Systems programming concepts and techniques (14)/5. Rust in Action_ Systems programming con - Tim McNamara.epub",
-        "timestamp": "2024-10-12T17:11:47.003Z",
-        "title": "Rust in Action: Systems programming concepts and techniques"
-      },
-      {
-        "authors": [
-          "Rustacean Team"
-        ],
-        "key": "/home/fahmida/1.2 audiobooks/1. Practical Rust 1.x Cookbook - Rustacean Team.epub",
-        "pathtoebook": "/home/fahmida/1.2 audiobooks/1. Practical Rust 1.x Cookbook - Rustacean Team.epub",
-        "timestamp": "2024-10-12T17:09:52.465Z",
-        "title": "Practical Rust 1.x Cookbook"
-      },
-      {
-        "authors": [
-          "Rustacean Team"
-        ],
-        "key": "/home/fahmida/downloads/Calibre Library/Rustacean Team/1. Practical Rust 1.x Cookbook (28)/1. Practical Rust 1.x Cookbook - Rustacean Team.epub",
-        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Rustacean Team/1. Practical Rust 1.x Cookbook (28)/1. Practical Rust 1.x Cookbook - Rustacean Team.epub",
-        "timestamp": "2024-10-12T17:04:02.221Z",
-        "title": "Practical Rust 1.x Cookbook"
-      },
-      {
-        "authors": [
-          "Jon Gjengset"
-        ],
-        "key": "/home/fahmida/downloads/Calibre Library/Jon Gjengset/6. Rust for Rustaceans (6)/6. Rust for Rustaceans - Jon Gjengset.epub",
-        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Jon Gjengset/6. Rust for Rustaceans (6)/6. Rust for Rustaceans - Jon Gjengset.epub",
-        "timestamp": "2024-10-12T17:02:03.282Z",
-        "title": "Rust for Rustaceans"
-      },
-      {
-        "authors": [
-          "Luca Palmieri"
-        ],
-        "key": "/home/fahmida/1.2 audiobooks/Zero to Production in Rust An Opinionated Introduction to Backend Development (Luca Palmieri) (Z-Library).epub",
-        "pathtoebook": "/home/fahmida/1.2 audiobooks/Zero to Production in Rust An Opinionated Introduction to Backend Development (Luca Palmieri) (Z-Library).epub",
-        "timestamp": "2024-10-12T16:52:44.187Z",
-        "title": "Zero To Production In Rust"
-      },
-      {
-        "authors": [
-          "Brenden Matthews;"
-        ],
-        "key": "/home/fahmida/1.2 audiobooks/Code Like a Pro in Rust (Brenden Matthews) (Z-Library).epub",
-        "pathtoebook": "/home/fahmida/1.2 audiobooks/Code Like a Pro in Rust (Brenden Matthews) (Z-Library).epub",
-        "timestamp": "2024-10-12T16:51:42.852Z",
-        "title": "Code Like a Pro in Rust"
-      },
-      {
-        "authors": [
-          "Luca Palmieri"
-        ],
-        "key": "/home/fahmida/1.2 audiobooks/extra/Zero to Production in Rust An Opinionated Introduction to Backend Development (Luca Palmieri) (Z-Library).epub",
-        "pathtoebook": "/home/fahmida/1.2 audiobooks/extra/Zero to Production in Rust An Opinionated Introduction to Backend Development (Luca Palmieri) (Z-Library).epub",
-        "timestamp": "2024-10-12T16:45:07.678Z",
-        "title": "Zero To Production In Rust"
-      },
-      {
-        "authors": [
-          "William Magnuson"
-        ],
-        "key": "/home/fahmida/downloads/videos/movies/Later-In-Life/5 Time Pass Reading/For profit A history of corporations/For Profit A History of Corporations (William Magnuson) (Z-Library)(1).epub",
-        "pathtoebook": "/home/fahmida/downloads/videos/movies/Later-In-Life/5 Time Pass Reading/For profit A history of corporations/For Profit A History of Corporations (William Magnuson) (Z-Library)(1).epub",
-        "timestamp": "2024-10-10T16:47:36.604Z",
-        "title": "For Profit"
-      },
-      {
-        "authors": [
-          "James Smith"
-        ],
-        "key": "/home/fahmida/1.2 audiobooks/extra/1 Build Your Own Web Server From Scratch In Node.JS (James Smith) (Z-Library).epub",
-        "pathtoebook": "/home/fahmida/1.2 audiobooks/extra/1 Build Your Own Web Server From Scratch In Node.JS (James Smith) (Z-Library).epub",
-        "timestamp": "2024-10-10T12:18:29.796Z",
-        "title": "Build Your Own Web Server From Scratch In Node.JS"
-      },
-      {
-        "authors": [
-          "James Smith"
-        ],
-        "key": "/home/fahmida/1 CodeCraftPDFs/Build your own HTTP server/all/1 Build Your Own Web Server From Scratch In Node.JS (James Smith) (Z-Library).pdf",
-        "pathtoebook": "/home/fahmida/1 CodeCraftPDFs/Build your own HTTP server/all/1 Build Your Own Web Server From Scratch In Node.JS (James Smith) (Z-Library).pdf",
-        "timestamp": "2024-10-08T22:35:04.388Z",
-        "title": "Build Your Own Web Server From Scratch In Node.JS"
-      },
-      {
-        "authors": [
-          "James Smith"
-        ],
-        "key": "/home/fahmida/1.1 audiobooks/CodeCraftPDFs/Build Your Own Database From Scratch (James Smith) (Z-Library).mobi",
-        "pathtoebook": "/home/fahmida/1.1 audiobooks/CodeCraftPDFs/Build Your Own Database From Scratch (James Smith) (Z-Library).mobi",
-        "timestamp": "2024-10-08T17:51:01.461Z",
-        "title": "Build Your Own Database From Scratch"
-      },
-      {
-        "authors": [
-          "James Smith"
-        ],
-        "key": "/home/fahmida/1.1 audiobooks/Build Your Own Web Server From Scratch In Node.JS (James Smith) (Z-Library).mobi",
-        "pathtoebook": "/home/fahmida/1.1 audiobooks/Build Your Own Web Server From Scratch In Node.JS (James Smith) (Z-Library).mobi",
-        "timestamp": "2024-10-08T16:20:38.271Z",
-        "title": "Build Your Own Web Server From Scratch In Node.JS"
-      },
-      {
-        "authors": [
-          "James Smith"
-        ],
-        "key": "/home/fahmida/1.1 audiobooks/Build Your Own Database From Scratch (James Smith) (Z-Library).mobi",
-        "pathtoebook": "/home/fahmida/1.1 audiobooks/Build Your Own Database From Scratch (James Smith) (Z-Library).mobi",
-        "timestamp": "2024-10-08T16:17:31.347Z",
-        "title": "Build Your Own Database From Scratch"
-      },
-      {
-        "authors": [
-          "James Smith"
-        ],
-        "key": "/home/fahmida/1.1 audiobooks/1 Build Your Own Web Server From Scratch In Node.JS (James Smith) (Z-Library).epub",
-        "pathtoebook": "/home/fahmida/1.1 audiobooks/1 Build Your Own Web Server From Scratch In Node.JS (James Smith) (Z-Library).epub",
-        "timestamp": "2024-10-07T12:16:51.837Z",
-        "title": "Build Your Own Web Server From Scratch In Node.JS"
-      },
-      {
-        "authors": [
-          "Walter Hickey",
-          "Heather Jones"
-        ],
-        "key": "/home/fahmida/downloads/videos/movies/Later-In-Life/5 Time Pass Reading/1 You are what you watch How movies and TV affect everything/You Are What You Watch How Movies and TV Affect Everything (Walter Hickey) (Z-Library).epub",
-        "pathtoebook": "/home/fahmida/downloads/videos/movies/Later-In-Life/5 Time Pass Reading/1 You are what you watch How movies and TV affect everything/You Are What You Watch How Movies and TV Affect Everything (Walter Hickey) (Z-Library).epub",
-        "timestamp": "2024-10-05T17:19:07.925Z",
-        "title": "You Are What You Watch"
-      },
-      {
-        "authors": [
-          "Kevin Horsley"
-        ],
-        "key": "/home/fahmida/Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Kevin Horsley) (Z-Library).epub",
-        "pathtoebook": "/home/fahmida/Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Kevin Horsley) (Z-Library).epub",
-        "timestamp": "2024-10-01T12:04:49.038Z",
-        "title": "Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Mental Mastery Book 1)"
-      },
-      {
-        "authors": [
-          "Horsley, Kevin"
-        ],
-        "key": "/home/fahmida/.local/share/torbrowser/tbb/x86_64/tor-browser/Browser/Downloads/Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Horsley, Kevin) (Z-Library).epub",
-        "pathtoebook": "/home/fahmida/.local/share/torbrowser/tbb/x86_64/tor-browser/Browser/Downloads/Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Horsley, Kevin) (Z-Library).epub",
-        "timestamp": "2024-10-01T12:04:39.942Z",
-        "title": "Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive"
       }
     ],
     "user_color_schemes": {
       "*new": {
         "background": "#fcfcfc",
-        "foreground": "#5a5a5a",
-        "margin_bottom": "#ffffff:#5a5a5a",
-        "margin_left": "#ffffff:#5a5a5a",
-        "margin_right": "#ffffff:#5a5a5a",
-        "margin_top": "#ffffff:#5a5a5a",
+        "foreground": "#282828",
+        "margin_bottom": "#ffffff:#282828",
+        "margin_left": "#ffffff:#282828",
+        "margin_right": "#ffffff:#282828",
+        "margin_top": "#ffffff:#282828",
         "name": "new"
       }
     },
-    "user_stylesheet": "body {\n\nline-height: 17px;\nword-space: 150px;\n\n\n}"
+    "user_stylesheet": "body {\n\nline-height: 47px;\nword-space: 150px;\n\n\n}\n\n.sourcecode {\n    color: white;\n}"
   },
   "speechd-voice-table-state": {
     "__class__": "bytearray",

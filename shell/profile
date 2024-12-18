@@ -14,8 +14,10 @@ unsetopt PROMPT_SP
 
 # Default programs:
 export EDITOR="helix"
-export TERMINAL="wezterm"
-export TERMINAL_PROG="wezterm"
+# export TERMINAL="wezterm"
+# export TERMINAL_PROG="wezterm"
+export TERMINAL="st"
+export TERMINAL_PROG="st"
 export BROWSER="google-chrome-stable"
 export BARTIB_FILE="/home/fahmida/.local/activities.bartib"
 

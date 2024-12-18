@@ -17,6 +17,7 @@ middle-click-paste = false
 # rulers = [80, 100]
 rulers = [120]
 auto-format = true
+undercurl = true
 
 # [keys.normal."backspace"]
 # r = ":run-shell-command cargo run" 
@@ -95,6 +96,7 @@ i = ":toggle lsp.display-inlay-hints"
 f = "file_picker_in_current_directory"
 F = "file_picker"
 q = ":q!"
+o = ":toggle undercurl"
 
 # create a new minor mode bound to `+`
 [keys.normal."="]

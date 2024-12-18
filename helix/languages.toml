@@ -36,7 +36,7 @@ scope = "source.md"
 injection-regex = "md|markdown"
 file-types = ["md", "markdown", "PULLREQ_EDITMSG", "mkd", "mdwn", "mdown", "markdn", "mdtxt", "mdtext", "workbook"]
 roots = [".marksman.toml"]
-language-servers = [ "marksman" ]
+# language-servers = [ "marksman" ]
 # indent = { tab-width = 2, unit = "  " }
 indent = { tab-width = 8, unit = "        " }
 

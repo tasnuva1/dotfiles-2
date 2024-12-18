@@ -3,6 +3,10 @@
     "__class__": "bytearray",
     "__value__": "AAAA/wAAAAEAAAACAAAARgAAAEYA/////wEAAAABAA=="
   },
+  "css-editor-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAD9AAAAAAAAAdwAAAHdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAUAGEAYwB0AGkAbwBuAF8AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAF8AYgBhAHIBAAAA3f////8AAAAAAAAAAA=="
+  },
   "custom_colors_for_color_dialog": [
     [
       255,
@@ -111,28 +115,28 @@
   },
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
-      "height": 364,
-      "width": 456,
-      "x": 563,
-      "y": 17
+      "height": 747,
+      "width": 1024,
+      "x": 0,
+      "y": 21
     },
     "full_screened": false,
     "geometry": {
-      "height": 356,
-      "width": 448,
-      "x": 567,
-      "y": 21
+      "height": 739,
+      "width": 1016,
+      "x": 4,
+      "y": 25
     },
     "maximized": false,
     "normal_geometry": {
-      "height": 356,
-      "width": 448,
-      "x": 567,
-      "y": 21
+      "height": 739,
+      "width": 1016,
+      "x": 4,
+      "y": 25
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAIzAAAAEQAAA/oAAAF8AAACNwAAABUAAAP2AAABeAAAAAAAAAAABAAAAAI3AAAAFQAAA/YAAAF4"
+      "__value__": "AdnQywADAAAAAAAAAAAAFQAAA/8AAAL/AAAABAAAABkAAAP7AAAC+wAAAAAAAAAABAAAAAAEAAAAGQAAA/sAAAL7"
     },
     "screen": {
       "depth": 24,
@@ -144,9 +148,9 @@
         "y": 0
       },
       "index_in_screens_list": 0,
-      "manufacturer": "Samsung Display Corp.",
+      "manufacturer": "",
       "model": "",
-      "name": "LVDS-1",
+      "name": "VGA-1",
       "serial": "",
       "size_in_logical_pixels": {
         "height": 768,
@@ -160,11 +164,17 @@
       }
     }
   },
+  "html-editor-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAD9AAAAAAAAAdwAAAHdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGEAYwB0AGkAbwBuAF8AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAF8AYgBhAHIBAAAA3f////8AAAAAAAAAAAAAAB4AaAB0AG0AbABfAGYAbwByAG0AYQB0AF8AYgBhAHIBAAABnv////8AAAAAAAAAAA=="
+  },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAABGAAABE/wCAAAABfsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAADsAAAETAAAAWQD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAFkA////+wAAACAAdABlAHgAdAAtAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAHcA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAIkA////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAesA////AAAAAQAAAO8AAAET/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAOwAAARMAAABPAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABZAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAAkAD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAAA6AP///wAAAH8AAAETAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABJv////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
+    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAAEFAAACkvwCAAAABfsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAADsAAAKSAAAAWQD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAFkA////+wAAACAAdABlAHgAdAAtAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAHcA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAIkA////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAesA////AAAAAQAAAQsAAAKS/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAOwAAApIAAABPAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABZAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAAkAD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAAA6AP///wAAAdwAAAKSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABJv////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
   },
   "recent-books": [
+    "/home/fahmida/Zero To Production In Rust (Luca Palmieri) (Z-Library).epub",
+    "/home/fahmida/Effective Rust 35 Specific Ways to Improve Your Rust Code (David Drysdale) (Z-Library).epub",
     "/home/fahmida/downloads/videos/movies/6 time-pass-reading/1 The Nightingale by Kristin Hannah EPUB/The Nightingale by Kristin Hannah.epub",
     "/home/fahmida/downloads/extract(all-zip-gz)/rust-books/OneDrive-2023-10-08/Programming Rust Fast Safe Systems Development.epub",
     "/home/fahmida/downloads/books/Learn Rust in a Month of Lunches (MEAP V09) (Dave MacLeod) (Z-Library)(1).epub"
@@ -175,7 +185,7 @@
     "where": "current",
     "wrap": true
   },
-  "search-panel-visible": false,
+  "search-panel-visible": true,
   "text_search_widget_state": {
     "case_sensitive": false,
     "dot_all": true,
