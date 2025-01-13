@@ -1748,3 +1748,452 @@ lf
 t 5m ; mpv /home/fahmida/.local/bin/cock.mp4
 t m ; mpv /home/fahmida/.local/bin/cock.mp4
 ln
+git add .
+git commit
+t 2m ; mpv /home/fahmida/.local/bin/cock.mp4
+git push origin master
+t 10m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 20m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 10m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 5m ; mpv /home/fahmida/.local/bin/cock.mp4
+arandr
+p
+arandr
+t 5m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 10m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 8m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 5m ; mpv /home/fahmida/.local/bin/cock.mp4
+h `others/writing/DAILY HOMEWORK.md`
+lf
+t 5m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 10m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 5m ; mpv /home/fahmida/.local/bin/cock.mp4
+dl
+al
+lf
+mounter
+n eating br
+rustup toolchain install nightly --allow-downgrade
+vktablet 
+rustc --version
+rustup run nightly rustc --version
+rustup default nightly
+lf
+mounter
+ln
+al
+rustup update
+rustc --version
+pwd
+lf
+~
+h .config/nushell/config.nu
+ln
+nn 20m research for the course and pair programming enverment
+t 30m ; mpv /home/fahmida/.local/bin/cock.mp4
+a
+t 10m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 30m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 10m ; mpv /home/fahmida/.local/bin/cock.mp4
+a
+t 15m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 10m ; mpv /home/fahmida/.local/bin/cock.mp4
+nn 1h 100 line of code (shu-du matro ae terget a fouse)
+nn 1h 100 line of code (shudu matro ae terget a fouse)
+nn 1h 100 line of code - shu-du matro ae terget a fouse
+ln
+current-project 
+cargo new zero2prod
+cargo new cloud-optimize-application
+cd cloud-optimize-application/
+ls
+git add .
+git commit
+git remote add origin git@github.com:tasnuva1/cloud-optimize-application.git
+nn 1h 100 line of code - shu-du matro ae terget a fouse
+git push -u origin master
+h `others/writing/DAILY HOMEWORK.md`
+dl
+al
+cd .local/bin/
+al
+dl
+al
+lf
+ln
+lf
+mounter
+vktablet 
+nn 32m 18.4 to 30
+a
+cargo install cargo-tarpaulin
+nn 15m kindle see
+t 10m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 5m ; mpv /home/fahmida/.local/bin/cock.mp4
+dl
+al
+t 5m ; mpv /home/fahmida/.local/bin/cock.mp4
+ln
+sudo pacman -U AppFlowy-0.7.8-linux-x86_64.tar.gz
+h al
+~
+ln
+yay appflowy
+a
+lf
+cargo clippy
+cargo clippy -- -D warnings
+AppFlowy 
+lf
+vktablet 
+n lessoning
+n youtube
+lf
+mounter
+a
+n clean code
+n rest
+vktablet 
+h `others/writing/DAILY HOMEWORK.md`
+da
+t 15m ; mpv /home/fahmida/.local/bin/cock.mp4
+n mindless watch
+vktablet 
+h `others/writing/DAILY HOMEWORK.md`
+AppFlowy 
+yay mlterm
+yay gnome-terminal
+AppFlowy 
+v
+vktablet
+pwd
+h .config/nushell/config.nu
+n writtings the highlight
+da
+ls
+lf
+mounter
+da
+lf
+mounter
+da
+sudo mount /dev/sdb /mnt/usb
+cd /mnt/usb
+lf
+ln
+lsdlk
+lsblk 
+rm -r ./*
+sudo rm -r ./*
+sudo mkdir audio
+lf
+lsblk 
+mounter
+sudo mount /dev/sdb /mnt/usb
+cd /mnt/usb
+lf
+sudo mkdir now-3
+sudo cp `./How to talk.mp4` /mnt/usb/now-3/
+ls
+sudo cp `./Daniel Kahneman - Thinking, Fast and Slow.m4b` /mnt/usb/now-3/
+ln
+sudo fuser -km /dev/sdb
+da
+ln
+mounter
+da
+t 15m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 30m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 15m ; mpv /home/fahmida/.local/bin/cock.mp4
+h `others/writing/DAILY HOMEWORK.md`
+lf
+t 1h ; mpv /home/fahmida/.local/bin/cock.mp4
+t 15m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 50m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 5m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 12m ; mpv /home/fahmida/.local/bin/cock.mp4
+dl
+t 12m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 3m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 55m ; mpv /home/fahmida/.local/bin/cock.mp4
+nn 40m selecting university
+nn 10m selecting university
+ln
+mounter
+nn 10m selecting university
+nn 10m brack
+nn 15m brack
+nn 10m brack
+nn 5m brack
+nn 20m brack
+t 15m ; mpv /home/fahmida/.local/bin/cock.mp4
+da
+p
+lf
+p
+ln
+yay fonts-beng
+yay font
+wget http://archive.ubuntu.com/ubuntu/pool/main/f/fonts-beng/fonts-beng_1.3_all.deb
+ls
+sudo debtap -u
+ls
+debtap fonts-beng_1.3_all.deb
+ls
+sudo pacman -U ./fonts-beng-2:1.3-1-any.pkg.tar.zst
+wget http://ports.ubuntu.com/pool/main/f/fonts-beng-extra/fonts-beng-extra_1.0-7_all.deb
+ls
+debtap fonts-beng-extra_1.0-7_all.deb
+wget http://ports.ubuntu.com/pool/main/f/fonts-lohit-beng-assamese/fonts-lohit-beng-assamese_2.91.5-1_all.deb
+debtap fonts-lohit-beng-assamese_2.91.5-1_all.deb
+wget http://ports.ubuntu.com/pool/main/f/fonts-lohit-beng-bengali/fonts-lohit-beng-bengali_2.91.5-1_all.deb
+debtap fonts-lohit-beng-bengali_2.91.5-1_all.deb
+sudo pacman -U ./fonts-beng-extra-1.0-1-any.pkg.tar.zst
+sudo pacman -U ./fonts-lohit-beng-assamese-2.91.5-1-any.pkg.tar.zst
+sudo pacman -U ./fonts-lohit-beng-bengali-2.91.5-1-any.pkg.tar.zst
+sudo pacman -U ./fonts-beng-2:1.3-1-any.pkg.tar.zst
+mkdir temp
+cd temp/
+git clone https://git.launchpad.net/ubuntu/+source/fonts-beng-extra
+ln
+ln usr/share/fonts/truetype/
+cd /usr/share/fonts/truetype/
+ln
+cd ~/
+git clone https://git.launchpad.net/ubuntu/+source/fonts-beng
+ln
+cd /usr/share/fonts/TTF/
+sudo ln
+sudo cp * /usr/share/fonts/TTF/
+fc-cache -f -v
+~
+fc-cache -f -v
+ln
+fc-list | grep "ani" -i
+ssa
+yay gnome-terminal
+yl
+sudo pacman -Qi
+touch temp-packages-list.txt
+sudo pacman -Qi >> temp-packages-list.txt
+sudo pacman -Qi > temp-packages-list.txt
+sudo pacman -Qi o> temp-packages-list.txt
+ln
+xournalpp 
+h temp-packages-list.txt
+yu
+yay gnome-terminal
+gnome-terminal
+gnome-terminal 
+wezterm
+gnome-terminal 
+h `others/writing/DAILY HOMEWORK.md`
+h /etc/default/locale
+LC_ALL=en_US.UTF-8 /usr/bin/dbus-launch gnome-terminal
+h `others/writing/DAILY HOMEWORK.md`
+yay joplin
+joplin-desktop 
+nn 5m vim
+h `others/writing/DAILY HOMEWORK.md`
+joplin-desktop 
+yu gnome-terminal 
+yr gnome-terminal 
+lf
+mounter
+lf
+yt-dlp --list-formats "https://www.youtube.com/watch?v=2YcGa1nQ2FI"
+yt-dlp -S res:480 --socket-timeout 60 --embed-chapters "https://www.youtube.com/watch?v=2YcGa1nQ2FI"
+ln
+yt-dlp -f 235 --socket-timeout 60 --embed-chapters "https://www.youtube.com/watch?v=2YcGa1nQ2FI"
+youtube "https://www.youtube.com/watch?v=2YcGa1nQ2FI"
+ln
+yt-dlp --list-formats "https://www.youtube.com/watch?v=2YcGa1nQ2FI"
+joplin-desktop 
+joplin-desktop 
+lf
+p
+lf
+mounter
+lf
+mounter
+vktablet
+cd .local/bin/
+h record
+sudo chmod 744 ./record
+cd .local/bin/
+h record
+cd .local/bin/
+vktablet
+cd .local/bin/
+sudo clean make
+sudo make clean install
+da
+dl
+ln
+cd .local/bin/
+p
+ln
+dl
+cd .local/bin/
+nn 5m usbc to hdmi price finding
+nn 10m usbc to hdmi price finding
+nn 25m usbc to hdmi price finding
+nn 20m pay-back time
+p
+mounter
+cd .local/bin/
+sudo make clean install
+p
+nn 20m 
+dl
+cd .local/bin/
+h dl
+lf
+al
+ln
+~
+cd .local/bin/
+ln
+~
+n resume finding and editing
+a
+n for future improvment to do list adding
+mounter
+n breack
+ln
+zathura Network-Administrator-Resume-Sample_Milano-Original.docx
+p
+n resume finding
+a
+t 15m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 8m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 5m ; mpv /home/fahmida/.local/bin/cock.mp4
+n sammarieing resume videos
+cd .local/bin/
+lf
+sudo make clean install
+dl
+al
+cd .local/bin/
+c
+dl
+cd .local/bin/
+h dl
+~
+dl
+lf
+dl
+vktablet
+dl
+cd .local/bin/
+date +"%A"
+dl
+git log
+h dl
+~
+ln
+a
+mounter
+joplin-desktop 
+lf
+a
+dl
+al
+cd .local/bin/
+c
+h `others/writing/DAILY HOMEWORK.md`
+touch oo.txt
+cat >2 oo.txt
+ln
+cat >1 oo.txt
+cat > oo.txt
+cat >3 oo.txt
+cat >> oo.txt
+cat >>2 oo.txt
+cat 1> oo.txt
+ls > oo.txt
+ls >2 oo.txt
+pwd 1> oo.txt
+pwd | oobtest 
+pwd | oo.txt
+ls
+pwd | save oo.txt
+pwd | save oo.txt -f
+ln
+current-project 
+joplin-desktop 
+dl
+al
+ln
+mounter
+a
+ln
+sudo pacman -U ./koreader-linux-x86_64-v2024.11.tar.xz
+ln
+yay koreader
+koreader 
+./koreader-appimage-x86_64-linux-gnu-v2024.11.AppImage
+ln
+sudo chmod 744 ./koreader-appimage-x86_64-linux-gnu-v2024.11.AppImage
+cd  /usr/share/fonts/
+./koreader-appimage-x86_64-linux-gnu-v2024.11.AppImage
+vktablet
+t 1h 20m ; mpv /home/fahmida/.local/bin/cock.mp4
+t 20m ; mpv /home/fahmida/.local/bin/cock.mp4
+p
+vktablet
+dl
+al
+cd .local/bin/
+h al
+~
+cd .local/bin/
+al
+h al
+h 24-12-h
+sudo chmod 744 ./24-12-h
+al
+cd .local/bin/
+./24-12-h 14:30
+a;
+al
+./24-12-h 12:06
+al
+h al
+cd .local/bin/
+/home/fahmida/.local/bin/24-12-h 12:03
+/home/fahmida/.local/bin/24-12-h 
+h al
+h remove_am_pm
+sudo chmod 744 ./remove_am_pm
+al
+h al
+~
+duf
+yay duf
+duf
+mounter
+duf
+h .config/nushell/config.nu
+du
+yay aria2
+h .config/nushell/config.nu
+neofetch 
+h .config/nushell/config.nu
+s
+pacman -Sy linux
+sudo pacman -Sy linux
+cd .local/bin/
+ln
+~
+h .config/shell/aliasrc
+ln
+cd .local/bin/
+git status
+ln
+cd .local/bin/
+ln
+git status
+git add .
+cd .local/bin/
+ln

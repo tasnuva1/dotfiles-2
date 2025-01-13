@@ -953,7 +953,7 @@ alias d = podman
 alias p = lf '/home/fahmida/others/screenshot/videos/1-all-records'
 alias s = lf '/home/fahmida/1 become mus-ta-kim, to become a good person/powerfull realated things'
 alias db = lf '/mnt/4/now-moved/Practical Database Design Blog Schema/[TutsNode.net] - Practical Database Design Blog Schema'
-alias current-project = lf '/home/fahmida/1 become mus-ta-kim, to become a good person/3 day/I want to become a problem slover by enovation/1 code/2. Rust/1. Small-projects/1. timetabee/time_series_test'
+# alias current-project = lf '/home/fahmida/1 become mus-ta-kim, to become a good person/3 day/I want to become a problem slover by enovation/1 code/2. Rust/1. Small-projects/1. timetabee/time_series_test'
 alias 1-hour-each-total-4-hours = lf /mnt/3/Courses/media/audiobooks/
 alias tor-dir = lf '/home/fahmida/.local/share/torbrowser/tbb/x86_64/tor-browser/Browser/Downloads'
 alias ee = wezterm
@@ -961,7 +961,13 @@ alias	ss = du --max-depth=1
 alias ssa = df -h /dev/dm-0 /dev/sda3 /dev/sda4
 alias ln = lf
 alias lf = lf '/home/fahmida/1/1 become mus-ta-kim, to become a good person'
+alias learning = ln '/home/fahmida/1/1 become mus-ta-kim, to become a good person/2 reading,listening - more books,lecture/1 code/2. Rust/1. Small-projects/learnings'
+alias current-project = ln '/home/fahmida/1/1 become mus-ta-kim, to become a good person/2 reading,listening - more books,lecture/1 code/1. Projects/Build your own Git/code/codecrafters-git-rust'
 alias c = calcurse
+alias du = duf
+alias wget = aria2c
+alias w = aria2c
+alias s = neofetch
 alias za = zathuralias lf = lfub \
 alias magit = nvim -c MagitOnly
 # alias ref = shortcuts >/dev/null; source ${XDG_CONFIG_HOME:-$HOME/.config}/shell/shortcutrc ; source ${XDG_CONFIG_HOME:-$HOME/.config}/shell/zshnameddirrc

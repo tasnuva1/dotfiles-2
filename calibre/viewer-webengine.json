@@ -74,7 +74,7 @@
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAFQAAA/8AAAL/AAAABAAAABkAAAP7AAAC+wAAAAAAAAAABAAAAAAEAAAAGQAAA/sAAAL7"
+      "__value__": "AdnQywADAAAAAAAAAAAAFQAAA/8AAAL/AAAABAAAABkAAAP7AAAC+wAAAAEAAAAABAAAAAAEAAAAGQAAA/sAAAL7"
     },
     "screen": {
       "depth": 24,
@@ -85,7 +85,7 @@
         "x": 0,
         "y": 0
       },
-      "index_in_screens_list": 0,
+      "index_in_screens_list": 1,
       "manufacturer": "",
       "model": "",
       "name": "VGA-1",
@@ -207,6 +207,8 @@
   "highlight_export_format": "txt",
   "local_storage": {
     "search-bar-history-search-for-sc": [
+      "go",
+      "search",
       "edit",
       "font",
       "mode",
@@ -214,7 +216,6 @@
       "scroll",
       "sc",
       "down",
-      "search",
       "speech",
       "n",
       "tts",
@@ -240,7 +241,7 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD8AAAC4/wCAAAAA/sAAAAeAGgAaQBnAGgAbABpAGcAaAB0AHMALQBkAG8AYwBrAAAAAAAAAALjAAAAxgD////7AAAAEAB0AG8AYwAtAGQAbwBjAGsCAAAA3QAAAA4AAAJFAAAC4/sAAAAWAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAAAAAC4wAAAJMA////AAAAAQAAAPwAAALj/AIAAAAD+wAAABYAbABvAG8AawB1AHAALQBkAG8AYwBrAAAAAAAAAAL6AAAAewD////7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAAAAAuMAAADkAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////AAAD+AAAAuMAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD8AAAC4/wCAAAAA/sAAAAeAGgAaQBnAGgAbABpAGcAaAB0AHMALQBkAG8AYwBrAAAAAAAAAAFvAAAAxgD////7AAAAEAB0AG8AYwAtAGQAbwBjAGsCAAAA3QAAAA4AAAJFAAAC4/sAAAAWAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAAAAAC4wAAAJMA////AAAAAQAAAPwAAALj/AIAAAAD+wAAABYAbABvAG8AawB1AHAALQBkAG8AYwBrAAAAAAAAAALjAAAAewD////7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAAAAAuMAAADkAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////AAAD+AAAAuMAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "saved-highlights-search-settings": {},
@@ -477,6 +478,10 @@
       "case_sensitive": false,
       "mode": "normal"
     },
+    "simple": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
     "so on": {
       "case_sensitive": false,
       "mode": "normal"
@@ -555,7 +560,7 @@
     }
   },
   "session_data": {
-    "base_font_size": 12,
+    "base_font_size": 14,
     "book_scrollbar": true,
     "columns_per_screen": {
       "landscape": 0,
@@ -876,6 +881,22 @@
           "shiftKey": false
         }
       ],
+      "start_search": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "/",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "f",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
       "toggle_autoscroll": [
         {
           "altKey": false,
@@ -927,9 +948,9 @@
     "lines_per_sec_auto": 2.1000000000000005,
     "margin_bottom": 40,
     "margin_left": 0,
-    "margin_right": 130,
+    "margin_right": 0,
     "margin_top": 40,
-    "max_text_width": 500,
+    "max_text_width": 700,
     "override_book_colors": "dark",
     "read_mode": "paged",
     "right-margin": {
@@ -951,7 +972,7 @@
     ],
     "standalone_font_settings": {
       "sans_family": "Roboto Medium",
-      "serif_family": "Liberation Sans"
+      "serif_family": "Inter"
     },
     "standalone_misc_settings": {
       "auto_hide_mouse": false,
@@ -959,6 +980,43 @@
       "restore_docks": false
     },
     "standalone_recently_opened": [
+      {
+        "authors": [
+          "Luca Palmieri"
+        ],
+        "key": "/home/fahmida/1/Zero To Production In Rust (Luca Palmieri) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/1/Zero To Production In Rust (Luca Palmieri) (Z-Library).epub",
+        "timestamp": "2025-01-11T12:52:50.711Z",
+        "title": "Zero To Production In Rust"
+      },
+      {
+        "authors": [
+          "John C. Maxwell"
+        ],
+        "key": "/home/fahmida/The 21 Irrefutable Laws of Leadership (Maxwell, John C) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/The 21 Irrefutable Laws of Leadership (Maxwell, John C) (Z-Library).epub",
+        "timestamp": "2025-01-11T08:14:16.143Z",
+        "title": "The 21 Irrefutable Laws of Leadership"
+      },
+      {
+        "authors": [
+          "Hoffman, Reid",
+          "Casnocha, Ben"
+        ],
+        "key": "/home/fahmida/The Startup of You (Revised and Updated) Adapt, Take Risks, Grow Your Network, and Transform Your Career (Hoffman, Reid  Casnocha, Ben) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/The Startup of You (Revised and Updated) Adapt, Take Risks, Grow Your Network, and Transform Your Career (Hoffman, Reid  Casnocha, Ben) (Z-Library).epub",
+        "timestamp": "2025-01-09T15:41:55.429Z",
+        "title": "The Startup of You (Revised and Updated): Adapt, Take Risks, Grow Your Network, and Transform Your Career"
+      },
+      {
+        "authors": [
+          "Luca Palmieri"
+        ],
+        "key": "/home/fahmida/1/1 become mus-ta-kim, to become a good person/2 reading,listening - more books,lecture/3 audiobooks, book, courses/1 Computer Programming Crafting/courses, lecture/Zero To Production In Rust (Luca Palmieri) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/1/1 become mus-ta-kim, to become a good person/2 reading,listening - more books,lecture/3 audiobooks, book, courses/1 Computer Programming Crafting/courses, lecture/Zero To Production In Rust (Luca Palmieri) (Z-Library).epub",
+        "timestamp": "1980-01-02T12:36:36.355Z",
+        "title": "Zero To Production In Rust"
+      },
       {
         "authors": [
           "Luca Palmieri"
@@ -1149,40 +1207,6 @@
         "pathtoebook": "/home/fahmida/1/- 1 read tafsir/3 Timeless seeds of advice/Timeless Seeds of Advice The Sayings of Prophet Muhammad ﷺ , Ibn Taymiyyah, Ibn al-Qayyim, Ibn al-Jawzi and Other Prominent... (B. B. Abdulla).mobi",
         "timestamp": "2024-10-28T07:29:04.590Z",
         "title": "Timeless Seeds of Advice: The Sayings of Prophet Muhammad ﷺ , Ibn Taymiyyah, Ibn al-Qayyim, Ibn al-Jawzi and Other Prominent Scholars in Bringing Comfort and Hope to the Soul"
-      },
-      {
-        "authors": [
-          "B. B. Abdulla"
-        ],
-        "key": "/home/fahmida/1/- 1 read tafsir/3 Timeless seeds of advice/Timeless Seeds of Advice (B. B. Abdulla) (Z-Library).epub",
-        "pathtoebook": "/home/fahmida/1/- 1 read tafsir/3 Timeless seeds of advice/Timeless Seeds of Advice (B. B. Abdulla) (Z-Library).epub",
-        "timestamp": "2024-10-28T07:28:27.355Z",
-        "title": "Timeless Seeds of Advice: The Sayings of Prophet Muhammad ﷺ , Ibn Taymiyyah, Ibn al-Qayyim, Ibn al-Jawzi and Other Prominent Scholars in Bringing Comfort and Hope to the Soul"
-      },
-      {
-        "key": "/home/fahmida/Downloads/Telegram Desktop/ব্যাংকব্যবস্থা_ও_টাকার_গোপন_রহস্য_মোহাইমিন_পাটোয়ারী.pdf",
-        "pathtoebook": "/home/fahmida/Downloads/Telegram Desktop/ব্যাংকব্যবস্থা_ও_টাকার_গোপন_রহস্য_মোহাইমিন_পাটোয়ারী.pdf",
-        "timestamp": "2024-10-25T02:35:43.674Z",
-        "title": "ব্যাংকব্যবস্থা ও টাকার গোপন রহস্য মোহাইমিন পাটোয়ারী"
-      },
-      {
-        "authors": [
-          "M.A.R. Habib",
-          "Bruce B. Lawrence"
-        ],
-        "key": "/home/fahmida/1 To learn about Allah SWT/The Quran A Verse Translation (M.A.R. Habib, Bruce B. Lawrence) (Z-Library).epub",
-        "pathtoebook": "/home/fahmida/1 To learn about Allah SWT/The Quran A Verse Translation (M.A.R. Habib, Bruce B. Lawrence) (Z-Library).epub",
-        "timestamp": "2024-10-16T03:30:39.428Z",
-        "title": "The Qur'an: A Verse Translation"
-      },
-      {
-        "authors": [
-          "Thomas Michel"
-        ],
-        "key": "/home/fahmida/downloads/One Click Image Downloader/catppuccinhelix ➿ Soothing pastel theme for Helix!/other/Insights from the Risale-I Nur Said Nursis Advice for Modern Believers (Thomas Michel) (Z-Library).epub",
-        "pathtoebook": "/home/fahmida/downloads/One Click Image Downloader/catppuccinhelix ➿ Soothing pastel theme for Helix!/other/Insights from the Risale-I Nur Said Nursis Advice for Modern Believers (Thomas Michel) (Z-Library).epub",
-        "timestamp": "2024-10-13T07:26:17.287Z",
-        "title": "Insights From the Risale-i Nur"
       }
     ],
     "user_color_schemes": {
@@ -1196,7 +1220,7 @@
         "name": "new"
       }
     },
-    "user_stylesheet": "body {\n\nline-height: 47px;\nword-space: 150px;\n\n\n}\n\n.sourcecode {\n    color: white;\n}"
+    "user_stylesheet": "body, * {\n\nline-height: 22px;\nword-space: 150px;\n\n\n}\n\n.sourcecode {\n    color: white;\n}"
   },
   "speechd-voice-table-state": {
     "__class__": "bytearray",

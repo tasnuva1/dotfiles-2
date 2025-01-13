@@ -17,6 +17,7 @@
 	<array/>
 	<key>lineedit_history_viewer-search-panel-expression</key>
 	<array>
+		<string>simple</string>
 		<string>pref</string>
 		<string>da/1 CodeCraftPDFs/Build your own HTTP server/all/http-server/src/main.rs'</string>
 		<string>do not follow</string>

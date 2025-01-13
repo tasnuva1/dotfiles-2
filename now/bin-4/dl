@@ -62,7 +62,7 @@ letter_month_and_date=$(date -d $year-$month-$day '+%b %-d')
 only_date_num=$(date -d $year-$month-$day '+%-d') 
 whole_time=$(date -d "$year-$month-$day ${time_24//\"/}" +"%I:%M %p") # 24h to 12h
 day_of_the_year=$(date -d $year-$month-$day '+%j') # Output: number
-week_of_the_year=$((${day_of_the_year#0} / 7)) # Exluding 0 for non-octal interpretation
+# week_of_the_year=$((${day_of_the_year#0} / 7)) # Exluding 0 for non-octal interpretation
 
 # sudo date -s "$year-$month-$day $whole_time" #############
 
@@ -96,15 +96,130 @@ date_no=$(echo $letter_month_and_date | rev | cut -c 1-2 | rev)
 if [[ $date_no -le 7 ]]
 then 
   which_week=1
+
+##############
+  if [[ $date_no -eq 1 ]]
+  then
+    which_week_no=1
+  elif [[ $date_no -eq 2 ]]
+  then
+    which_week_no=2
+  elif [[ $date_no -eq 3 ]]
+  then
+    which_week_no=3
+  elif [[ $date_no -eq 4 ]]
+  then
+    which_week_no=4
+  elif [[ $date_no -eq 5 ]]
+  then
+    which_week_no=5
+  elif [[ $date_no -eq 6 ]]
+  then
+    which_week_no=6
+  elif [[ $date_no -eq 7 ]]
+  then
+    which_week_no=7
+  # else
+  fi
+#############
+    
 elif [[ $date_no -gt 7 ]] && [[ $date_no -le 14 ]]
 then
   which_week=2
+
+##############
+  if [[ $date_no -eq 8 ]]
+  then
+    which_week_no=1
+  elif [[ $date_no -eq 9 ]]
+  then
+    which_week_no=2
+  elif [[ $date_no -eq 10 ]]
+  then
+    which_week_no=3
+  elif [[ $date_no -eq 11 ]]
+  then
+    which_week_no=4
+  elif [[ $date_no -eq 12 ]]
+  then
+    which_week_no=5
+  elif [[ $date_no -eq 13 ]]
+  then
+    which_week_no=6
+  elif [[ $date_no -eq 14 ]]
+  then
+    which_week_no=7
+  # else
+  fi
+#############
+    
 elif [[ $date_no -gt 14 ]] && [[ $date_no -le 21 ]]  
 then
   which_week=3
+
+##############
+  if [[ $date_no -eq 15 ]]
+  then
+    which_week_no=1
+  elif [[ $date_no -eq 16 ]]
+  then
+    which_week_no=2
+  elif [[ $date_no -eq 17 ]]
+  then
+    which_week_no=3
+  elif [[ $date_no -eq 18 ]]
+  then
+    which_week_no=4
+  elif [[ $date_no -eq 19 ]]
+  then
+    which_week_no=5
+  elif [[ $date_no -eq 20 ]]
+  then
+    which_week_no=6
+  elif [[ $date_no -eq 21 ]]
+  then
+    which_week_no=7
+  # else
+  fi
+#############
+    
 elif [[ $date_no -gt 21 ]] && [[ $date_no -le 31 ]]  
 then
   which_week=4
+
+##############
+  if [[ $date_no -eq 22 ]]
+  then
+    which_week_no=1
+  elif [[ $date_no -eq 23 ]]
+  then
+    which_week_no=2
+  elif [[ $date_no -eq 24 ]]
+  then
+    which_week_no=3
+  elif [[ $date_no -eq 25 ]]
+  then
+    which_week_no=4
+  elif [[ $date_no -eq 26 ]]
+  then
+    which_week_no=5
+  elif [[ $date_no -eq 27 ]]
+  then
+    which_week_no=6
+  elif [[ $date_no -eq 28 ]]
+  then
+    which_week_no=7
+  elif [[ $date_no -eq 29 ]]
+  then
+    which_week_no="bonus point 8"
+  elif [[ $date_no -eq 30 ]]
+  then
+    which_week_no="bonus point 9"
+  elif [[ $date_no -eq 31 ]]
+  then
+    which_week_no="bonus point 10"
+  # else
+  fi
 else
   echo "non mathch"
 fi
@@ -171,8 +286,9 @@ echo "---------+---------+---------+---------+---------+---------+---------"
 echo "Month: $month"
 # echo "Today: $letter_month_and_date                                         "
 echo "Today: $only_date_num"
-echo "Week: ${number_of_week}th"
-echo "Month Week: $which_week out of 4 weeks"
+echo "Week: ${number_of_week}th  $name_of_week"
+echo "Month Week: I'm in $which_week out of 4 weeks        tar ${which_week_no}th aa-acha"
+# echo "This Month: week $which_week ar ${which_week_no}th aa-acha"
 echo "Time: $whole_time"
 # echo "Time has left: ${hour_left}h ${min_left}m"
 # echo "Time has passe: ${hour_passed}h ${min_part}m/17h"
@@ -183,4 +299,3 @@ echo "Year: $year"
 # echo "Weeks has passed: $week_of_the_year weeks passed"
 # echo "Day Of The Week: ${number_of_week}th day week"
 echo "---------+---------+---------+---------+---------+---------+---------"
-
